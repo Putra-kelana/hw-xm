@@ -56,7 +56,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HaikaltestBot123"
+    "url": "https://github.com/Putra-kelana/Putra-kelana.git"
   },
   "keywords": [
     "Wasu"
@@ -64,7 +64,7 @@
   "author": "Haikal",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/HaikaltestBot123"
+    "url": "https://git.heroku.com/xm-putra88.git"
   },
-  "homepage": "https://github.com/HaikaltestBot123"
+  "homepage": "https://git.heroku.com/xm-putra88.git"
 }
